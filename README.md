@@ -1,0 +1,2 @@
+The goal of this project is to allow me to gain confidence and familiarity with ticketing systems, which will help me to transfer the skills that I learn here into a real world IT environment. 
+(To view my project, click on the .odt file above and select "view raw". It should then begin an automatic downlaod of the word document).
